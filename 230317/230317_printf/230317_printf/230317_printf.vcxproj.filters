@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="constant.c">
+    <ClCompile Include="printf.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

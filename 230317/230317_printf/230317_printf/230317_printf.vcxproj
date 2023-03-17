@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{1ab4a8c8-d1d2-43e0-b3a7-93ca3c659517}</ProjectGuid>
-    <RootNamespace>My230317constant</RootNamespace>
+    <ProjectGuid>{9a304775-1598-4a7f-a0cd-ffeff9d44908}</ProjectGuid>
+    <RootNamespace>My230317printf</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="constant.c" />
+    <ClCompile Include="printf.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
