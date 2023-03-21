@@ -16,11 +16,11 @@ int main(void) {
 
 	double height;
 	printf("키는 몇 cm이에요?");
-	scnaf_s("%lf", &height);
+	scanf_s("%lf", &height);
 
 	char what[256];
 	printf("무슨 범죄를 저질렀어요? ");
-	scnaf_s("%s", what, sizeof(what));
+	scanf_s("%s", what, sizeof(what));
 
 	//조서 내용 출력
 	printf("\n\n--- 범죄자 정보 ---\n\n");

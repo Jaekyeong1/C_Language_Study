@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="230321_project1.c">
+    <ClCompile Include="loop.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

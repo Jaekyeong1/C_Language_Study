@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{09638478-ca46-479d-adbc-fd8fab1ab0e3}</ProjectGuid>
-    <RootNamespace>My230321project1</RootNamespace>
+    <ProjectGuid>{f42067c2-2202-46e9-8ccb-d1fe621883b6}</ProjectGuid>
+    <RootNamespace>My230321loop</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="230321_project1.c" />
+    <ClCompile Include="loop.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
