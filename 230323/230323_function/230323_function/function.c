@@ -15,7 +15,7 @@ int main(void) {				// main 함수 시작
 
 int sum(int x, int y)			// sum 함수 정의 시작
 {
-	int temp;					// 두 정수의 합을 잠시 저장할 변수
+	int temp;					// 두 정수의 합을 잠시 저장할 변수 
 
 	temp = x + y;				// x와 y의 합을 temp에 보관
 
