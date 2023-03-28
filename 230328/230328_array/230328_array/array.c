@@ -48,6 +48,5 @@ int main(void) {
 	//printf("%.2f\n", arr_f[i]);
 	//}
 
-
 	return 0;
 }
