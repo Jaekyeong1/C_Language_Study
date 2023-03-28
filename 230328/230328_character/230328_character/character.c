@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main_array(void) {
 
 	//문자 vs 문자열
 	//char c = 'A';
